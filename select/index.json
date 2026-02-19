@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "u",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-02-19T12:01:39.961883Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "U Gurl",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/01_U_Gurl_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "U Gurl",
+      "artist": "Walker Hayes",
+      "has_synced": false,
+      "path": "select/02_U_Gurl_Walker_Hayes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future feat. Tems & Drake",
+      "has_synced": true,
+      "path": "select/03_WAIT_FOR_U_(feat._Drake_&_Tems)_Future_feat._Tems_&_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "has_synced": true,
+      "path": "select/04_good_4_u_Olivia_Rodrigo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/05_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/06_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Bless The U.S.A.",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/07_God_Bless_The_U.S.A._Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heartbreak U.S.A.",
+      "artist": "Kitty Wells",
+      "has_synced": false,
+      "path": "select/08_Heartbreak_U.S.A._Kitty_Wells.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I.O.U.",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/09_I.O.U._Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I.O.U. (Album Version)",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/10_I.O.U._(Album_Version)_Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somebody Like U",
+      "artist": "Alan Walker feat. Au/Ra",
+      "has_synced": true,
+      "path": "select/11_Somebody_Like_U_Alan_Walker_feat._Au_Ra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Somebody Like U",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/12_Somebody_Like_U_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/13_T-R-O-U-B-L-E_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/14_T-R-O-U-B-L-E_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Happiest Girl In The Whole U.S.A.",
+      "artist": "Donna Fargo",
+      "has_synced": true,
+      "path": "select/15_The_Happiest_Girl_In_The_Whole_U.S.A._Donna_Fargo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Be Lovin' U Long Time",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/16_I'll_Be_Lovin'_U_Long_Time_Mariah_Carey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "u",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_u_Kendrick_Lamar.txt"
+    }
+  ]
+}
